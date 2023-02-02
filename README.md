@@ -59,7 +59,3 @@ ASDOIJFAOSIFJ1231. eypaisdufhdasiofhbasio32.woifjopasdjnfpasj
 1° Ponto - Header - Algorítimo e tipo do token
 2° Ponto - Payload - Conteúdo do Token(Geralmente é só o ID)
 3° Ponto - Verify signature - Garante o token
-
-NPM INSTALL JSONWEBTOKEN
-=======
->>>>>>> 941d4b71669c2e59cc31cb8e8c9923ce5fc2e23a
